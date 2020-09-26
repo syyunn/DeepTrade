@@ -4,3 +4,5 @@ Predict U.S. trade policy announcement published in the Federal Register from th
 ## Data Source
 - Federal Register
 - UNComtrade
+
+## Literature 
